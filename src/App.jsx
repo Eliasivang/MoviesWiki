@@ -1,7 +1,6 @@
 import React from 'react'
 import { MovieDetails } from './pages/MovieDetails';
 import { LandingPage } from './pages/LandingPage';
-import { Footer } from './components/Footer';
 import { Search } from './components/Search';
 //import MoviesGrid from './components/MoviesGrid'
 import {
